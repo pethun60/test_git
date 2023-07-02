@@ -9,7 +9,8 @@ from email.mime.application import MIMEApplication
 from datetime import datetime
 import argparse
 
-scriptVersion = 1.0
+#testar git 
+scriptVersion = 2.0
 
 parser = argparse.ArgumentParser(description='Config email script')
 parser.add_argument('-v', action='store_true', help='Display version')
